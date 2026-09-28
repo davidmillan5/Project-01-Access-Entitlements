@@ -1,4 +1,15 @@
 package co.fintech.entitlements.model.accessentitlement;
+
+
+
 public class AccessEntitlement {
-    public AccessEntitlement(){}
+
+    private EntitlementId id;
+    private CustomerId customerId;
+    private ProductReference product;
+
+
+
+
+
 }
